@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides additional statements from the course instructor
+  to supplement the syllabus.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Syllabus

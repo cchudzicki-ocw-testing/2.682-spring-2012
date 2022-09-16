@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides background notes for assigned readings and lecture
+  notes containing outlines for the lecture sections in the class.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
